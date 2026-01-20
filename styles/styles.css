@@ -194,7 +194,7 @@ figcaption h3 {
     font-family: var(--font-display);
 }
 
-#percentage {
+.percentage {
     width: 23px;
     height: 23px;
     font-size: 14px;
@@ -210,7 +210,7 @@ figcaption h3 {
     font-family: var(--font-display);
 }
 
-#percentage sub {
+.percentage sub {
     font-size: 8px;
 }
 

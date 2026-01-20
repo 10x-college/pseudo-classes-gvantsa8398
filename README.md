@@ -90,6 +90,8 @@
 
 დაარქვით ფაილს სახელი: preview.png
 
+![Design Preview](./images/preview.png)
+
 ატვირთეთ ეს სურათი თქვენს GitHub რეპოზიტორიაში, კოდის ფაილებთან ერთად.
 
 ჩასვით სურათი README.md ფაილში.
